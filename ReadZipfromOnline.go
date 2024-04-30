@@ -10,8 +10,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/xuri/excelize/v2"
-	// util "github.com/mrlakshmanan/fcsutility"
+	"github.com/xuri/excelize/v2" 
 )
 
 //----------------------------------------------------------- Read ZIP --------------------------------------------------------------
